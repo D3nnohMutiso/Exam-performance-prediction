@@ -2,6 +2,9 @@
 
 A machine learning project that predicts students' examination scores based on academic and lifestyle factors, including study hours, attendance, previous academic performance, and sleep duration.
 
+## Live Demo
+https://exam-performance-prediction-bue9kdcvcgafdd4tuyhxjm.streamlit.app/
+
 ## Project Overview
 
 Student academic performance can be influenced by several factors. This project explores how machine learning can be used to understand these factors and predict students' examination performance.
